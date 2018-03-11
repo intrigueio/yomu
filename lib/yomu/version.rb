@@ -1,3 +1,3 @@
 class Yomu
-  VERSION = '0.2.4'
+  VERSION = 'pentestify.0.2.5'
 end
